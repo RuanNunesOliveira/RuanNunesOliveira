@@ -1,4 +1,4 @@
-/# 💻 Ruan Nunes
+# 💻 Ruan Nunes
 
 **`Desenvolvedor Back-End`**
 
