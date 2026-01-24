@@ -3,8 +3,8 @@
 **Desenvolvedor Back-End**
 
 Me chamo Ruan Nunes Oliveira, sou de Minas Gerais e apaixonado por tecnologia e exatas.  
-Atualmente estudo programação com foco em **Python**, buscando construir uma base sólida em lógica, algoritmos e desenvolvimento back-end.  
-No futuro, pretendo me aprofundar em **Java** e ampliar meus conhecimentos em sistemas e engenharia de software.
+Estudo **programação com foco em Python** e estou construindo minha base em lógica, APIs e desenvolvimento back-end.  
+Pretendo aprender **Java** no futuro e crescer como engenheiro de software.
 
 ---
 
@@ -12,38 +12,35 @@ No futuro, pretendo me aprofundar em **Java** e ampliar meus conhecimentos em si
 
 <p align="left">
   <a href="https://github.com/RuanNunesOliveira?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas"
-      src="https://img.shields.io/github/stars/RuanNunesOliveira?style=for-the-badge&color=55960c&label=Estrelas"
-    />
+    <img alt="Estrelas GitHub" src="https://img.shields.io/github/stars/RuanNunesOliveira?style=for-the-badge&color=55960c&label=Estrelas" />
   </a>
-
   <a href="https://github.com/RuanNunesOliveira?tab=followers">
-    <img 
-      alt="Seguidores"
-      src="https://img.shields.io/github/followers/RuanNunesOliveira?style=for-the-badge&color=236ad3&label=Seguidores"
-    />
+    <img alt="Seguidores GitHub" src="https://img.shields.io/github/followers/RuanNunesOliveira?style=for-the-badge&color=236ad3&label=Seguidores" />
   </a>
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias
 
-<img align="left" alt="Python" title="Python" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<img align="left" alt="HTML" title="HTML" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<br/><br/>
 
-<img align="left" alt="CSS" title="CSS" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+---
 
-<img align="left" alt="JavaScript" title="JavaScript" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+## 📊 Estatísticas
 
-<img align="left" alt="Git" title="Git" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RuanNunesOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanNunesOliveira&theme=tokyonight&layout=compact&langs_count=6" />
+</p>
 
-<br/>
-<br/>
+---
+
+## 🚀 Destaques de Repositórios
+
