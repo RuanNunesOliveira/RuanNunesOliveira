@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Ruan Nunes Oliveira, tenho 14 anos e sou natural de Minas Gerais. Sou fascinado por tecnologia e exatas.
+Me chamo Ruan Nunes Oliveira, tenho 14 anos e sou natural de Minas Gerais. Sou fascinado por tecnologia e exatas. Estou começando a estudar programação recentemente, tenho focado em python mas no futuro pretendo me aprender e me aprofundar em java, sou bastante organizado e busco sempre aprender e evoluir!
 
 <p align="left">
     <a href="https://github.com/RuanNunesOliveira?tab=repositories&sort=stargazers">
